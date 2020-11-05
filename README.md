@@ -24,7 +24,7 @@ By the end of the course, I will be able to&hellip;
 **Course Dates:** October 21 through December 11, 2020 _(7 weeks)_<br>
 **Checkin Times:** Friday at 1:00am to 1:00pm &amp; communication inbetween _(7 meetings)_
 
-|  Goals  |     Date     |  Learning Goal               | Topic                                                          |
+|  Goals  |     Date     |   Weekly Focus               | Topics                                                          |
 | :-----: | :----------: | :--------------------------: | -------------------------------------------------------------- |
 |    1    | Fri, Nov 5   |          _Basics_            | **Vaiables, Data Types, Conidtions, Loops, Functions**         |
 |    2    | Fri, Nov 13  | _OOP / Pointers and Memory_  | **Classes, Getters/Setters, String Streams, Pointers**         |
