@@ -1,8 +1,5 @@
-<p align="center">
-   <img src="banner.png" height="320" alt="BEW 2.3 @ Make School">
-</p>
 
-# BEW 2.3: Web Security
+# SUP 2.1: Supervised Intensive Study
 
 | Instructor | Office Hours |
 | ---------- | ------------ |
