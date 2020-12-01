@@ -26,11 +26,11 @@ By the end of the course, I will be able to&hellip;
 
 |  Goals  |     Date     |   Weekly Focus               | Topics                                                          |
 | :-----: | :----------: | :--------------------------: | -------------------------------------------------------------- |
-|    1    | Fri, Nov 5   |          _Basics_            | **Vaiables, Data Types, Conidtions, Loops, Functions**         |
-|    2    | Fri, Nov 13  | _OOP / Pointers and Memory_  | **Classes, Getters/Setters, String Streams, Pointers**         |
-|    3    | Fri, Nov 20  | _Inheritance / Odds and Ends_| **Inheritance, Encapsulation, Two Complement, Static Keyword** |
-|    4    | Fri, Nov 27  |    _Develoing a Program_     | **Developing the Particle Fire Simulation**                    |
-|    5    | Fri, Dec 4   |     _Advanced Concepts_      | **Advanced C++ concepts that I've yet to discover**            |
+|    1    | Fri, Nov 5   |          _Basics_            | **Vaiables, Data Types, Conidtions, Loops**                    |
+|    2    | Fri, Nov 13  |    _Subroutines / Spaceman_  | **Functions and Spaceman project**                             |
+|    3    | Fri, Nov 27  |  _OOP / Pointers and Memory_ | **Classes, Getters/Setters, String Streams, Pointers**         |
+|    4    | Fri, Dec 4   |    _Develoing a Program_     | **Developing the Particle Fire Simulation**                    |
+|    5    | Fri, Dec 11  | _Advanced Concepts and Review Projects_ | **Begin looking into advanced C++ concepts that I've yet to discover and projects to apply waht I've learned**            |
 
 
 ## Evaluation
